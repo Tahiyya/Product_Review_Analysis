@@ -1,0 +1,19 @@
+Evaluation Metrics for Sentiment Analysis with 'siebert/sentiment-roberta-large-english'
+Accuracy: 0.894878706199461
+Macro Precision: 0.8948232763632136
+Weighted Precision: 0.8949008781339598
+Macro Recall: 0.894892144892145
+Weighted Recall: 0.894878706199461
+Macro F1-Score: 0.894851204534719
+Weighted F1-Score: 0.8948832898102512
+
+Confusion Matrix:[[169  20]
+ [ 19 163]]
+Classification Report:              precision    recall  f1-score   support
+
+    NEGATIVE       0.90      0.89      0.90       189
+    POSITIVE       0.89      0.90      0.89       182
+
+    accuracy                           0.89       371
+   macro avg       0.89      0.89      0.89       371
+weighted avg       0.89      0.89      0.89       371
